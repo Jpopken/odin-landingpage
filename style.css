@@ -103,6 +103,7 @@ h1{
 
 .text{
     text-align: center;
+    margin-bottom: 30px;
 }
 
 .container1,.container2,.container3,.container4{
@@ -121,6 +122,38 @@ h1{
     border-radius: 50px;
 
     margin-bottom: 15px;
+
     
 }
 
+.randomquote{
+    background-color:lightgray;
+    font-size: 36px;
+    
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 500px;
+    padding-right: 500px;
+    
+    
+
+}
+
+.quote1{
+    
+   
+    
+    
+    
+    
+}   
+
+.quote2{
+    font-weight: bold;
+    font-size: 18px;
+    
+    text-align: end;
+    
+}
