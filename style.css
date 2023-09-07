@@ -61,7 +61,7 @@ ul {
     flex-basis: 400px;
 
 }
-button{
+.info button{
     background-color: #3882F6;
     color: white;
     cursor: pointer;
@@ -157,3 +157,38 @@ h1{
     text-align: end;
     
 }
+
+.calltoaction{
+    padding-left: 300px;
+    padding-right: 300px;
+    margin: 20px;
+}
+
+.ctacontainer{
+    background-color: #3882F6;
+    border-radius: 15px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.ctatext{
+    color: #E5E7EB;
+    padding: 10px;
+}
+
+.ctacontainer button{
+    border: 2px solid #E5E7EB;
+    color: #E5E7EB;
+    background-color: #3882F6;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    font-weight: bold;
+    
+    
+    
+}
+
